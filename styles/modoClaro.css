@@ -1,0 +1,84 @@
+.modo-claro{
+    background-color: #EAEAEA ;
+    color: #2B2B2E ;
+    font-weight: 600;
+}
+
+
+.editor-image-mc {
+    background-color: #EAEAEA;
+    color: #2B2B2E;
+    height: 100%;
+    width: 250px;
+    position: relative;
+    top: 0;
+    right: 0;
+    padding: 20px;
+    display: block;
+    flex-direction: column;
+    justify-content: space-evenly;
+}
+/* input[type=range]::-webkit-slider-runnable-track {
+    height: 8px;
+    border: 1px #2B2B2E solid; <!--HAY QUE CAMBIAR EL BORDE-->
+    border-radius: 10px;
+} */
+
+/*TOP-TEXT
+ .top-text {
+    height: 15%;
+    width: 100%;
+    font-family: Impact;
+    font-size: 40;
+    color: rgb(0, 0, 0); <!--HAY QUE CAMBIAR -->
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #EAEAEA; <!--HAY QUE CAMBIAR -->
+
+}
+*/
+
+/* BOTTOM-TEXT
+.botton-text {
+    height: 15%;
+    width: 100%;
+    font-family: Impact;
+    color: rgb(0, 0, 0); <!--HAY QUE CAMBIAR -->
+    font-size: 40;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #EAEAEA; <!--HAY QUE CAMBIAR -->
+}
+*/
+/*BODY
+ 
+body {
+    width: 100vw;
+    height: 100vh;
+    font-family: 'Poppins', sans-serif;
+    font-size: 16px;
+    color: #EAEAEA; <!--HAY QUE CAMBIAR -->
+    background-color: #2B2B2E; <!--HAY QUE CAMBIAR -->
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+}
+
+*/
+
+/*
+footer {
+    width: 100%;
+    height: 8%;
+    background-color: #2B2B2E; <!--HAY QUE CAMBIAR -->
+    color: #EAEAEA; <!--HAY QUE CAMBIAR -->
+    font-size: 1em;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+}
+*/
